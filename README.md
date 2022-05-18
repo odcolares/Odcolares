@@ -1,5 +1,5 @@
-<h2> Ola pessoas, Blz?  width="70px"></h2>
-
+<h2> Ola pessoas, Blz?
+  
 [![Linkedin Badge](https://img.shields.io/badge/-odcolares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/odair-colares-48aa5862?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bds8Dixn1SgCfCuv4KPgstA%3D%3D/)](https://www.linkedin.com/in/odair-colares-48aa5862?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0AfVYgg4SD%2BOh8WcfEtGhQ%3D%3D)
 
 Ola 🖖, me chamo Odair Colares sou analista de sistemas 💻 que ama tecnologias e um entusiasta de python 🐍 iniciando sua jornada.
