@@ -9,7 +9,9 @@
 
 ✔️ 🗣️📢 Vamos trocar umas ideias sobre: **O mundo do DataScience e seus vários braços 🤯.**
 
-✔️ 🎯 Como chegar até mim: **🤳 92 95129901 e 📧 odaircolares@msn.com**
+✔️ 🎯 Como chegar até mim:</p>
+**👉 🤳 92 95129901**</p>
+**👉 📧 odaircolares@msn.com**
 
 ✔️ 📄 Conheça minhas experiências [https://www.linkedin.com/in/odair-colares-48aa5862/](https://www.linkedin.com/in/odair-colares-48aa5862/)
 
