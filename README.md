@@ -5,20 +5,36 @@
 
 ✔️ 🔭 **Atualmente trabalhando em:**
 
-- [RendaExtraCupuns](https://github.com/odcolares/RendaExtraCupuns) — Bot de afiliados multi-plataforma (TypeScript, Node.js, Telegraf, SQLite)
-- [BusinessAI](https://github.com/odcolares/BusinessAI) — Agente de consultas dinâmicas com IA para dados empresariais (Python, FastAPI, PostgreSQL)
-- [Condominio](https://github.com/odcolares/condominio) — Sistema de gestão de condomínio residencial com backend em TypeScript + Express, autenticação JWT e 12 routers cobrindo controle de acesso, visitantes, prestadores, ocorrências, restrições de portaria, reservas de áreas comuns e portal do morador.
-- [Clinica-saas](https://github.com/odcolares/clinica-saas) — Sistema de gestão de clínicas de estética, Django 5 + Django REST Framework + django-tenants.
+- [RendaExtraCupuns](https://github.com/odcolares/RendaExtraCupuns) — Bot de afiliados WhatsApp → Telegram (TypeScript · Node.js · Telegraf)
+- [BusinessAI](https://github.com/odcolares/BusinessAI) — Agente de IA para consultas em dados empresariais (Python · FastAPI)
+- [Condominio](https://github.com/odcolares/condominio) — Gestão de condomínios com 12 routers e portal do morador (TypeScript · Express · JWT)
+- [Clinica-saas](https://github.com/odcolares/clinica-saas) — SaaS multi-tenant para clínicas com IA (Python · Django · TypeScript)
 
 ✔️ 🛠️ **Stack principal:** TypeScript, Node.js, Python, FastAPI, SQL, Automação & Bots
 
 ✔️ 🎯 **Foco atual:** Agentes de IA, APIs REST, Automação de processos & Bots
 
-✔️ 🗣️ **Vamos trocar uma ideia sobre:** Tecnologia, dados, automação e inovação
+---
 
-✔️ 📫 **Contato:** <a href="mailto:odaircolares@msn.com">odaircolares@msn.com</a>
+### 📌 Projetos em Destaque
 
-✔️ 📄 **Conheça minhas experiências no** <a href="https://www.linkedin.com/in/odair-colares-48aa5862/">LinkedIn</a>
+#### 🔗 <a href="https://github.com/odcolares/RendaExtraCupuns">RendaExtraCupuns</a>
+Sistema automatizado que monitora ofertas em grupos WhatsApp, gera links de afiliado e publica em canal no Telegram.
+> `TypeScript` `Node.js` `Telegraf` `whatsapp-web.js` `SQLite` `PM2` `axios` `OAuth`
+
+🌐 [Demo ao vivo](https://web-gamma-hazel-30.vercel.app)
+
+#### 🧠 <a href="https://github.com/odcolares/BusinessAI">BusinessAI</a>
+Agente de consultas dinâmicas com IA para análise de dados empresariais. Conecta-se a bases PostgreSQL e Firebird.
+> `Python` `FastAPI` `PostgreSQL` `Firebird` `JWT` `Pydantic` `Excel/PDF`
+
+#### 🏠 <a href="https://github.com/odcolares/condominio">Condominio</a>
+Sistema de gestão de condomínio residencial com backend em TypeScript + Express, autenticação JWT e 12 routers cobrindo controle de acesso, visitantes, prestadores, ocorrências, restrições de portaria, reservas de áreas comuns e portal do morador.
+> `TypeScript` `Node.js` `Express` `JWT` `HTML`
+
+#### 🏥 <a href="https://github.com/odcolares/clinica-saas">Clinica-saas</a>
+Plataforma SaaS multi-tenant para gestão de clínicas: CRM, orçamentos, agenda, pagamentos, omnichannel e IA.
+> `TypeScript` `Python` `Django` `Django REST Framework` `django-tenants`
 
 ---
 
@@ -46,39 +62,21 @@ Trabalho em equipe · Flexibilidade · Criatividade · Gestão de tempo · Scrum
 
 ---
 
-### 📌 Projetos em Destaque
-
-#### 🔗 <a href="https://github.com/odcolares/RendaExtraCupuns">RendaExtraCupuns</a>
-Sistema automatizado que monitora ofertas em grupos WhatsApp, gera links de afiliado e publica em canal no Telegram.
-> `TypeScript` `Node.js` `Telegraf` `whatsapp-web.js` `SQLite` `PM2` `axios` `OAuth`
-
-#### 🧠 <a href="https://github.com/odcolares/BusinessAI">BusinessAI</a>
-Agente de consultas dinâmicas com IA para análise de dados empresariais. Conecta-se a bases PostgreSQL e Firebird.
-> `Python` `FastAPI` `PostgreSQL` `Firebird` `JWT` `Pydantic` `Excel/PDF`
-
-#### 🏠 <a href="https://github.com/odcolares/condominio">Condominio</a>
-Sistema de gestão de condomínio residencial com backend em TypeScript + Express, autenticação JWT e 12 routers cobrindo controle de acesso, visitantes, prestadores, ocorrências, restrições de portaria, reservas de áreas comuns e portal do morador.
-> `TypeScript` `Node.js` `Express` `JWT`
-
-#### 🏥 <a href="https://github.com/odcolares/clinica-saas">Clinica-saas</a>
-Sistema de gestão de clínicas de estética, Django 5 + Django REST Framework + django-tenants.
-> `Python` `Django` `Django REST Framework` `django-tenants`
-
----
-
 ### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=odcolares&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="odcolares" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=odcolares&show_icons=true&locale=en&theme=github_dark" alt="odcolares" /></p>
-
-<p><img align="center" src="https://streak-stats.demolab.com/?user=odcolares&theme=github_dark" alt="odcolares" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=odcolares&show_icons=true&locale=en&theme=github_dark" alt="odcolares" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=odcolares&theme=github_dark" alt="odcolares" width="45%" />
+</p>
 
 ---
 
-<h3 align="left">Conecte-se comigo:</h3>
+### 📫 Conecte-se comigo
+
+✉️ <a href="mailto:odaircolares@msn.com">odaircolares@msn.com</a> · 💼 <a href="https://www.linkedin.com/in/odair-colares-48aa5862/">LinkedIn</a>
+
 <p align="left">
-<a href="https://linkedin.com/in/odair-colares-48aa5862/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/odair-colares-48aa5862/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://fb.com/od.colares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://discord.gg/OdColares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
