@@ -1,0 +1,6 @@
+# Artefatos de planejamento locais (não versionar)
+.omo/
+
+# CVs e conteúdo extraído — dados pessoais, nunca publicar no repo de perfil
+CV*.pdf
+CV*_conteudo.md
