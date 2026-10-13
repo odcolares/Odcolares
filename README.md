@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odcolares&label=Profile%20views&color=0e75b6&style=flat" alt="odcolares" /> </p>
 
-✔️ 🔭 **Atualmente trabalhando em:**  
-<a href="https://github.com/odcolares/RendaExtraCupuns">RendaExtraCupuns</a> — Bot de afiliados multi-plataforma (TypeScript, Node.js, Telegraf, SQLite)  
-<a href="https://github.com/odcolares/BusinessAI">BusinessAI</a> — Agente de consultas dinâmicas com IA para dados empresariais (Python, FastAPI, PostgreSQL)
-<a href="https://github.com/odcolares/condominio">Condominio</a> — Sistema de gestão de condomínio residencial com backend em TypeScript + Express, autenticação JWT e 12 routers cobrindo controle de acesso, visitantes, prestadores, ocorrências, restrições de portaria, reservas de áreas comuns e portal do morador.
-<a href="https://github.com/odcolares/clinica-saas">Clinica-saas</a> — Sistema de gestão de clínicas de estética, Django 5 + Django REST Framework + django-tenants.
+✔️ 🔭 **Atualmente trabalhando em:**
+
+- [RendaExtraCupuns](https://github.com/odcolares/RendaExtraCupuns) — Bot de afiliados multi-plataforma (TypeScript, Node.js, Telegraf, SQLite)
+- [BusinessAI](https://github.com/odcolares/BusinessAI) — Agente de consultas dinâmicas com IA para dados empresariais (Python, FastAPI, PostgreSQL)
 
 ✔️ 🛠️ **Stack principal:** TypeScript, Node.js, Python, FastAPI, SQL, Automação & Bots
 
