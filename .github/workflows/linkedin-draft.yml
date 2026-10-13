@@ -1,0 +1,33 @@
+name: LinkedIn Draft Queue
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # a cada 6h
+  workflow_dispatch:
+    inputs:
+      ignore_label:
+        description: 'Ignorar a label linkedin-post (somente teste)'
+        type: boolean
+        default: false
+      days:
+        description: 'Janela (dias) para buscar PRs mergeados'
+        type: number
+        default: 7
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Gerar rascunhos de posts (issues)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DAYS: ${{ inputs.days || 7 }}
+          REQUIRE_LABEL: ${{ github.event_name != 'workflow_dispatch' || inputs.ignore_label == false }}
+        run: python3 .github/scripts/linkedin_draft.py
