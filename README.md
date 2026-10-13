@@ -71,7 +71,7 @@ Trabalho em equipe · Flexibilidade · Criatividade · Gestão de tempo · Scrum
 
 ### 📫 Conecte-se comigo
 
-✉️ <a href="mailto:odaircolares@msn.com">odaircolares@msn.com</a> · 💼 <a href="https://www.linkedin.com/in/odair-colares-48aa5862/">LinkedIn</a>
+✉️ <a href="mailto:odaircolares@msn.com">odaircolares@msn.com</a> · 💼 <a href="https://www.linkedin.com/in/odair-colares-48aa5862/">LinkedIn</a> · 💬 <a href="https://wa.me/5592995129901">(92) 99512-9901</a>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/odair-colares-48aa5862/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
