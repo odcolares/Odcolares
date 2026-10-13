@@ -7,6 +7,8 @@
 
 - [RendaExtraCupuns](https://github.com/odcolares/RendaExtraCupuns) — Bot de afiliados multi-plataforma (TypeScript, Node.js, Telegraf, SQLite)
 - [BusinessAI](https://github.com/odcolares/BusinessAI) — Agente de consultas dinâmicas com IA para dados empresariais (Python, FastAPI, PostgreSQL)
+- [Condominio](https://github.com/odcolares/condominio) — Sistema de gestão de condomínio residencial com backend em TypeScript + Express, autenticação JWT e 12 routers cobrindo controle de acesso, visitantes, prestadores, ocorrências, restrições de portaria, reservas de áreas comuns e portal do morador.
+- [Clinica-saas](https://github.com/odcolares/clinica-saas) — Sistema de gestão de clínicas de estética, Django 5 + Django REST Framework + django-tenants.
 
 ✔️ 🛠️ **Stack principal:** TypeScript, Node.js, Python, FastAPI, SQL, Automação & Bots
 
@@ -53,6 +55,14 @@ Sistema automatizado que monitora ofertas em grupos WhatsApp, gera links de afil
 #### 🧠 <a href="https://github.com/odcolares/BusinessAI">BusinessAI</a>
 Agente de consultas dinâmicas com IA para análise de dados empresariais. Conecta-se a bases PostgreSQL e Firebird.
 > `Python` `FastAPI` `PostgreSQL` `Firebird` `JWT` `Pydantic` `Excel/PDF`
+
+#### 🏠 <a href="https://github.com/odcolares/condominio">Condominio</a>
+Sistema de gestão de condomínio residencial com backend em TypeScript + Express, autenticação JWT e 12 routers cobrindo controle de acesso, visitantes, prestadores, ocorrências, restrições de portaria, reservas de áreas comuns e portal do morador.
+> `TypeScript` `Node.js` `Express` `JWT`
+
+#### 🏥 <a href="https://github.com/odcolares/clinica-saas">Clinica-saas</a>
+Sistema de gestão de clínicas de estética, Django 5 + Django REST Framework + django-tenants.
+> `Python` `Django` `Django REST Framework` `django-tenants`
 
 ---
 
