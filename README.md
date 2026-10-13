@@ -22,8 +22,6 @@
 Sistema automatizado que monitora ofertas em grupos WhatsApp, gera links de afiliado e publica em canal no Telegram.
 > `TypeScript` `Node.js` `Telegraf` `whatsapp-web.js` `SQLite` `PM2` `axios` `OAuth`
 
-🌐 [Demo ao vivo](https://web-gamma-hazel-30.vercel.app)
-
 #### 🧠 <a href="https://github.com/odcolares/BusinessAI">BusinessAI</a>
 Agente de consultas dinâmicas com IA para análise de dados empresariais. Conecta-se a bases PostgreSQL e Firebird.
 > `Python` `FastAPI` `PostgreSQL` `Firebird` `JWT` `Pydantic` `Excel/PDF`
